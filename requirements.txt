@@ -1,6 +1,7 @@
 ipykernel
 pandas
 numpy
+openpyxl
 matplotlib
 plotly
 seaborn
